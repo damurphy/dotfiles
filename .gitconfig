@@ -1,0 +1,7 @@
+[user]
+	name = Daniel Murphy
+	email = damurphy@upenn.edu
+[color]
+	ui = true
+[push]
+	default = simple
